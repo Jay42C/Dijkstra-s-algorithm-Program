@@ -1,0 +1,9 @@
+This Program will implement Dijkstra's algorithm in order to determine the cheapest fights from San Francisco to other cities for a fictitious airline, CS Airlines. I will use the following map of available flights on CS Airlines. Each vertex has a name and an index, e.g. SFO has index 0, LAX has vertex 1, etc. Each edge has a weight which is the cost of a ticket between the two cities.I designed and implemented a C++ class to represent this graph using an adjacency matrix. In addition to storing the adjacency matrix, the class will include a method which uses Dijkstra's algorithm in order to compute and print out the cheapest cost from San Francisco (vertex 0) to each other city. 
+
+
+
+
+We can represent this map as an adjacency matrix
+
+
+<img width="242" alt="image" src="https://github.com/user-attachments/assets/55f17f5a-17f2-4957-8078-9a8013e3643b" />
